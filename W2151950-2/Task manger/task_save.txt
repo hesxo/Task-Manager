@@ -1,0 +1,8 @@
+Drink,Drink more water,Low,2024-02-27
+eat,eat more,High,2025-04-03
+run,run fast,Medium,2025-04-07
+Buy groceries,Milk, Bread,Medium,2025-04-20
+Study,file handling and functions,High,2025-04-18
+Clean,Remove old papers and organize files,Low,2025-04-21
+Gym,Chest day,Medium,2025-04-17
+lol,lol,Low,2025-09-09

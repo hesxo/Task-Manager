@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Drink",
+        "description": "Drink more water",
+        "priority": "Low",
+        "due_date": "2024-02-27"
+    },
+    {
+        "name": "eat",
+        "description": "eat more",
+        "priority": "High",
+        "due_date": "2025-04-03"
+    },
+    {
+        "name": "run",
+        "description": "run fast",
+        "priority": "Medium",
+        "due_date": "2025-04-07"
+    },
+    {
+        "name": "Buy groceries",
+        "description": "Milk, Bread",
+        "priority": "Medium",
+        "due_date": "2025-04-20"
+    },
+    {
+        "name": "Study",
+        "description": "file handling and functions",
+        "priority": "High",
+        "due_date": "2025-04-18"
+    },
+    {
+        "name": "Clean",
+        "description": "Remove old papers and organize files",
+        "priority": "Low",
+        "due_date": "2025-04-21"
+    },
+    {
+        "name": "Gym",
+        "description": "Chest day",
+        "priority": "Medium",
+        "due_date": "2025-04-17"
+    },
+    {
+        "name": "lol",
+        "description": "lol",
+        "priority": "Low",
+        "due_date": "2025-09-09"
+    }
+]
